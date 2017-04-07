@@ -1,0 +1,28 @@
+[nivel]
+origen = Imagen2.png
+mapa = ####..........
+      #......$......#
+      #.............#
+      #######........
+
+c_x = 64
+c_y = 32
+
+[.]
+nombre = cesped
+px = 3
+py = 0
+muro = 0
+
+[#]
+nombre = pared
+px = 12
+py = 0
+muro = 1
+
+
+[$]
+nombre = hielo
+px = 12
+py = 0
+muro = 1
