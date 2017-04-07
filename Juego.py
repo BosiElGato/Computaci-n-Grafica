@@ -197,15 +197,16 @@ if __name__ == '__main__':
             if event.type==pygame.KEYDOWN:
                 if event.key==pygame.K_RIGHT:
                     player.dir=0
+                    Enemy.dir=0
                 if event.key==pygame.K_LEFT:
                     player.dir=1
-
+                    Enemy.dir=1
                 if event.key==pygame.K_UP:
                     player.dir=2
-
+                    Enemy.dir=2
                 if event.key==pygame.K_DOWN:
                     player.dir=3
-
+                    Enemy.dir=3
                 if event.key==pygame.K_SPACE:
                     player.dir=4
 
