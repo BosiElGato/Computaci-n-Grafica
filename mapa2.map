@@ -1,0 +1,89 @@
+[nivel2]
+origen=fondomapa.png
+cal=32
+can=32
+mapa= -------------------------
+	  -*#*#*#*#*#*#*#*#*#*#*#*-
+	  -!$!$!$!$!$!$!$!$!$!$!$!-
+	  ------#*#*-----#*#*#*----
+	  -!$!$!$!$!-----$!$!$!$!$-
+	  ---#*-#*#*#*#*##*$!------
+	  -*#*--$!$!$!$!$$!$!#*----
+	  -!$!--#*#*#*#*#*#*#*#*#*-
+	  -*--------$!$!-----a$!$!-
+	  -*#*#*-as-#*#*#*---asas#-
+	  -!$zxzxzx-$!$!$!--#*#*#*-
+	  -*#*#*#*#*#*#*#*$!$!$!$!-
+	  -!$!$!$!$!$!$!$!#*#*#*#*-
+	  -------------------------
+	  -asasasasasasasasasasasa-
+	  -zxzxzxzxzxzxzxzxzxzxzxz-
+	  -asasasasasasasasasasasa-
+	  -zxzxzxzxzxzxzxzxzxzxzxz-
+	  -------------------------
+	 
+	  
+
+
+[.]
+nombre=cesped
+px=0
+py=0
+muro=0
+
+[#]
+nombre=tabla1
+px=4
+py=6
+muro=1
+
+[*]
+nombre=tabla2
+px=5
+py=6
+muro=1
+
+[$]
+nombre=tabla3
+px=4
+py=7
+muro=1
+
+[!]
+nombre=tabla4
+px=5
+py=7
+muro=1
+
+[-]
+nombre=vacio
+px=14
+py=4
+muro=1
+
+
+[a]
+nombre=tabla2
+px=4
+py=4
+muro=1
+
+[s]
+nombre=tabla21
+px=5
+py=4
+muro=1
+
+[z]
+nombre=tabla22
+px=4
+py=5
+muro=1
+
+[x]
+nombre=tabla23
+px=5
+py=5
+muro=1
+
+
